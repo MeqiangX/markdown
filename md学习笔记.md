@@ -154,7 +154,7 @@ System.out.println("这是一段java代码块")
 
 markdown无法对图片指定尺寸，但是可以使用h5标签替代<img>
 
-<img src='/Users/xiaoqiang/Pictures/b10115b0afef2b9a150e0b207426e1.jpg' height=400 width=600 alt='错误' title='h5图片标题'></img>
+<img src='https://github.com/MeqiangX/resource/blob/main/image/b10115b0afef2b9a150e0b207426e1.jpg?raw=true' height=400 width=600 alt='错误' title='h5图片标题'></img>
 
 - md表格
 
