@@ -144,7 +144,7 @@ System.out.println("这是一段java代码块")
 
 - 图片
 
-![alt 图片alt展示文本](/Users/xiaoqiang/Pictures/b10115b0afef2b9a150e0b207426e1.jpg "title可选标题")
+![alt 图片alt展示文本](image/b10115b0afef2b9a150e0b207426e1.jpg "title可选标题")
 
 同理可以对图片使用变量
 
